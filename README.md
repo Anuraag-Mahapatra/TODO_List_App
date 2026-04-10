@@ -1,6 +1,6 @@
-# TodoReact
+# Todo_List_App
 
-A clean, responsive **React Todo List** application with full CRUD functionality: add new tasks, edit existing ones, delete items, and checkmark completed todos. Tasks persist across sessions using **localStorage**—no backend required.
+A clean, responsive **Todo List App** application with full CRUD functionality: add new tasks, edit existing ones, delete items, and checkmark completed todos. Tasks persist across sessions using **localStorage**—no backend required.
 
 ## ✨ Features
 - ✅ Add new todo items
@@ -17,8 +17,8 @@ A clean, responsive **React Todo List** application with full CRUD functionality
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/yourusername/TodoReact.git
-cd TodoReact
+git clone https://github.com/Anuraag-Mahapatra/TODO_List_App.git
+cd TODO_List_App
 npm install
 npm start
 ```
