@@ -1,12 +1,28 @@
-# React + Vite
+# TodoReact
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive **React Todo List** application with full CRUD functionality: add new tasks, edit existing ones, delete items, and checkmark completed todos. Tasks persist across sessions using **localStorage**—no backend required.
 
-Currently, two official plugins are available:
+## ✨ Features
+- ✅ Add new todo items
+- ✏️ Edit existing todos  
+- 🗑️ Delete todos
+- ☑️ Mark todos as complete/incomplete
+- 💾 Automatic localStorage persistence
+- 📱 Fully responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **React** (Hooks: useState, useEffect)
+- **localStorage** for data persistence
+- **CSS Modules** for styling
 
-## Expanding the ESLint configuration
+## 🚀 Quick Start
+```bash
+git clone https://github.com/yourusername/TodoReact.git
+cd TodoReact
+npm install
+npm start
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+**Perfect for learning React state management and local storage integration!** ⭐
